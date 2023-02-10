@@ -16,7 +16,7 @@ h1 {
   background-size: 100% 20%;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-image: url("/Images/Vday.gif");
+  background-image: url("Images/Vday.gif");
   color: rgb(224, 190, 182);
 }
 h2 {
