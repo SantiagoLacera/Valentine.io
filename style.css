@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kanit&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Kanit&family=Pacifico&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #b38d97;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 150px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 20%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-image: url("/Images/Vday.gif");
+  color: rgb(224, 190, 182);
+}
+h2 {
+  color: #aec6cf;
+  font-family: "Kanit";
+}
+
+p {
+  font-size: medium;
+  font-weight: bold;
+  color: #fa9eb4;
+  font-family: "Pacifico";
+}
+
+img {
+  opacity: 0.7;
+}
+
+strong {
+  font-weight: bold;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+.Form-class {
+  font-family: "Inter";
+  font-weight: bold;
+  color: red;
+  position: absolute;
+}
+.icons {
+  width: 30px;
+  height: 30px;
+  mix-blend-mode: multiply;
+}
+.wrapper {
+  position: absolute;
+}
+
+label {
+  margin: 15px;
+}
+
+#OtherBox {
+  width: 350px;
+  height: 150px;
+}
+
+.btn {
+  position: relative;
+  left: 300px;
+}
+
+#Carousel {
+  background-color: transparent;
+  padding-bottom: 15px;
+}
